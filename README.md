@@ -44,4 +44,4 @@ Follow these steps:
 7. Install the necessary dependencies for running the code examples. Instructions for installation may vary depending on the quantum computing framework used.
 
 
-## We are CyberSpartans!!
+## CyberSpartans
