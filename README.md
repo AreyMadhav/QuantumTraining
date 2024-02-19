@@ -35,16 +35,4 @@ Follow these steps:
 
 7. Install the necessary dependencies for running the code examples. Instructions for installation may vary depending on the quantum computing framework used.
 
-## Getting Started
-
-To get started with QuantumTraining, follow these steps:
-
-1. Clone this repository to your local machine using `git clone https://github.com/AreyMadhav/QuantumTraining.git`.
-
-2. Explore the contents of the repository, including lecture notes, code examples, and exercises.
-
-3. Install the necessary dependencies for running the code examples. Instructions for installation may vary depending on the quantum computing framework used.
-
-4. Start learning! Begin with the lecture notes to build a strong foundation in quantum computing principles, then experiment with the provided code examples and solve exercises to reinforce your understanding.
-
 Happy learning!
