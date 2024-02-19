@@ -9,6 +9,12 @@ Quantum computing is an emerging field that combines principles from physics, ma
 ## Contents
 
 In this repo you will find the Demo programs that will be given throughout the session, so that you can try them on your own if we ran out of time
+Such as:
+1. BellStates
+2. Program Gates
+3. Wavefunction simulation
+4. QKD
+5. Quantum Teleportation Protocol
 
 ## Steps
 
