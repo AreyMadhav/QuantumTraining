@@ -8,11 +8,32 @@ Quantum computing is an emerging field that combines principles from physics, ma
 
 ## Contents
 
-- **Lecture Notes**: Contains lecture notes covering various topics in quantum computing, including quantum mechanics, quantum algorithms, quantum programming, and more.
-  
-- **Code Examples**: Provides code examples and implementations of quantum algorithms and experiments using different quantum computing frameworks and languages such as Qiskit, Cirq, and PyQuil.
+## Steps
 
-- **Exercises**: Includes exercises and problems to reinforce understanding and practice quantum computing concepts.
+Follow these steps:
+
+1. Ensure you have Python 3 and Rust installed on your system.
+   
+2. Install PyQuil using pip:
+
+    ```
+    pip install pyquil
+    ```
+
+3. Verify the installation of Quilc and QVM:
+
+    ```
+    quilc --version
+    qvm --version
+    ```
+
+4. [Run your first PyQuil program](https://pyquil-docs.rigetti.com/en/stable/getting_started.html#run-your-first-program) following the instructions provided in the official PyQuil documentation.
+
+5. Clone this repository to your local machine using `git clone https://github.com/AreyMadhav/QuantumTraining.git`.
+
+6. Explore the contents of the repository, including lecture notes, code examples, and exercises.
+
+7. Install the necessary dependencies for running the code examples. Instructions for installation may vary depending on the quantum computing framework used.
 
 ## Getting Started
 
