@@ -8,6 +8,8 @@ Quantum computing is an emerging field that combines principles from physics, ma
 
 ## Contents
 
+In this repo you will find the Demo programs that will be given throughout the session, so that you can try them on your own if we ran out of time
+
 ## Steps
 
 Follow these steps:
